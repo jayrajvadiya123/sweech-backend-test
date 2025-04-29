@@ -1,6 +1,3 @@
-Here is the simplified `README.md` file with only the required information, no emojis or extra content:
-
-```md
 # NestJS Backend API
 
 ## Tech Stack
@@ -51,7 +48,7 @@ JWT secret is configured in `.env` (`JWT_SECRET`).
 Token is valid for 20 minutes.  
 Use `Authorization: Bearer <token>` in headers.
 
-## Swagegr API Endpoint
+## Swagger API Documentation
 
 - http://localhost:3001/api/docs
 
@@ -80,5 +77,4 @@ npm run lint
 
 ```bash
 npm run format
-```
 ```
